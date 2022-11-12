@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science Reseacher
 ----------------------
 
-I graduated from the geology engineering department at Istanbul Technical University. I have been introduced to data science due to the stability analyzes I made in my graduation project. Afterward, I attended many online courses and certificate programs in order to improve myself in this field. I am developing my studies using Phyton and SQL programming languages. Later in my career, I want to become more equipped in machine learning and data science.
+I graduated from the geological engineering department at Istanbul Technical University. I have been introduced to data science due to the stability analyzes I made in my graduation project. Afterward, I attended many online courses and certificate programs in order to improve myself in this field. I am developing my studies using Phyton and SQL programming languages. Later in my career, I want to become more equipped in machine learning and data science.
 
 * 🌍  I'm based in İstanbul, Türkiye
 * ✉️  You can contact me at [turusanasakwork@gmail.com](mailto:turusanasakwork@gmail.com)
