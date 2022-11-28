@@ -9,7 +9,7 @@ I graduated from the geological engineering department at Istanbul Technical Uni
 * 🌍  I'm based in İstanbul, Türkiye
 * ✉️  You can contact me at [turusanasakwork@gmail.com](mailto:turusanasakwork@gmail.com)
 * 🚀  I'm currently working on [Sompo Insurance Turkey](http://www.somposigorta.com.tr/)
-* 🧠  I'm learning SQL,PowerBI,Tableu and Python
+* 🧠  I'm learning SQL,PowerBI,KNIME and Python
 * 🤝  I'm open to collaborating on Machine Learning and Data Science Project
 
 ### Skills
